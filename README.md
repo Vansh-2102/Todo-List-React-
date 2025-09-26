@@ -1,16 +1,35 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive To-Do List application built using React.js. The app allows users to add, edit, mark as completed, and delete tasks, helping them manage daily tasks efficiently. It demonstrates the use of React hooks (useState, useEffect), component-based architecture, and state management.
 
-Currently, two official plugins are available:
+🔑 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+➕ Add new tasks
 
-## React Compiler
+✏️ Edit existing tasks
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✅ Mark tasks as completed / pending
 
-## Expanding the ESLint configuration
+❌ Delete tasks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+💾 Local storage support (tasks remain saved after page refresh)
+
+🎨 Clean and responsive UI
+
+🛠️ Tech Stack
+
+Frontend: React.js, JSX, CSS (or Tailwind if you used it)
+
+State Management: React Hooks
+
+Storage: Local Storage
+
+🚀 Learning Outcomes
+
+Hands-on experience with React functional components
+
+Managing state and props effectively
+
+Implementing CRUD operations in React
+
+Using local storage for data persistence
